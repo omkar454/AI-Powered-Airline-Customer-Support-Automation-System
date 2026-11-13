@@ -1,0 +1,462 @@
+DOCUMENT: INDIGO CHECK-IN, BOARDING PASS AND SEAT SELECTION
+AIRLINE: IndiGo
+CATEGORY: Check-in, Boarding Pass, Seat Selection
+SOURCE: Official IndiGo Website
+
+PRIMARY SOURCES:
+https://www.goindigo.in/travel-information/en/check-in-options.html
+https://www.goindigo.in/travel-information/en/airport-check-in-requirements.html
+https://www.goindigo.in/web-check-in.html
+https://www.goindigo.in/information/conditions-of-carriage.html
+https://www.goindigo.in/boarding-pass.html
+
+==================================================
+1. OVERVIEW OF CHECK-IN
+==================================================
+
+Check-in is the process through which a passenger confirms their intention to travel on a booked flight, completes the required formalities and receives a boarding pass.
+
+IndiGo provides several check-in methods:
+
+- Web check-in through the IndiGo website.
+- Mobile check-in through the IndiGo application.
+- Kiosk check-in at supported airports.
+- Airport counter check-in.
+- Smart check-in, where available.
+
+Passengers generally need a valid booking reference (PNR) and the required identification documents.
+
+Completing check-in does not guarantee boarding. Passengers must also complete baggage drop, security screening and boarding formalities within the applicable deadlines.
+
+==================================================
+2. WEB CHECK-IN TIME WINDOWS
+==================================================
+
+DOMESTIC FLIGHTS:
+
+- Web check-in opens 48 hours before scheduled departure.
+- Web check-in closes 60 minutes before scheduled departure.
+
+INTERNATIONAL FLIGHTS:
+
+- Web check-in opens 24 hours before scheduled departure.
+- Web check-in closes 75 minutes before scheduled departure.
+
+Passengers should complete web check-in within the applicable time window.
+
+The availability of online check-in may depend on the route, itinerary, passenger category and booking conditions.
+
+Official page:
+https://www.goindigo.in/web-check-in.html
+
+==================================================
+3. HOW TO COMPLETE WEB CHECK-IN
+==================================================
+
+General procedure:
+
+1. Visit the official IndiGo website.
+2. Select the Check-in option.
+3. Enter the booking reference (PNR).
+4. Enter the passenger's last name or other requested booking details.
+5. Retrieve the booking.
+6. Select the passenger who needs to check in.
+7. Complete the required declarations.
+8. Select a seat if available.
+9. Complete the check-in process.
+10. Download, print or receive the boarding pass using the available options.
+
+Passengers carrying checked baggage must proceed to the airport baggage drop counter after completing online check-in.
+
+==================================================
+4. WEB CHECK-IN ELIGIBILITY
+==================================================
+
+Standard web check-in may not be available for certain passenger categories.
+
+Examples include:
+
+- Unaccompanied minors (UNMR).
+- Passengers travelling with a medical case (MEDA).
+- Passengers travelling on a stretcher (STCR).
+- Certain bookings made using international credit or debit cards.
+- Certain connecting itineraries where the connecting flight falls outside the permitted check-in window.
+
+Passengers who cannot complete online check-in should contact IndiGo or use airport counter check-in, subject to the applicable deadlines.
+
+==================================================
+5. MOBILE / APP CHECK-IN
+==================================================
+
+Mobile check-in allows passengers to complete check-in using the IndiGo mobile application.
+
+General procedure:
+
+1. Open the IndiGo mobile application.
+2. Retrieve the booking using the PNR and requested passenger details.
+3. Select the passenger.
+4. Select a seat if available.
+5. Complete the required declarations.
+6. Confirm check-in.
+7. Access the boarding pass through the application or available delivery options.
+
+Mobile check-in allows passengers to complete check-in without visiting an airport counter, provided they meet the eligibility requirements.
+
+Official information:
+https://www.goindigo.in/app-check-in.html
+
+==================================================
+6. SMART CHECK-IN
+==================================================
+
+Smart Check-in is a contactless check-in facility offered by IndiGo where available.
+
+Passengers can check in through supported digital channels and receive their boarding pass through available delivery methods, such as WhatsApp or email.
+
+Published timing guidance:
+
+- Domestic flights: up to 60 minutes before departure.
+- International flights: up to 75 minutes before departure.
+
+Availability and delivery options may depend on the booking and registered contact details.
+
+Smart Check-in does not remove the requirement to meet baggage drop, security and boarding deadlines.
+
+==================================================
+7. KIOSK CHECK-IN
+==================================================
+
+Kiosk check-in is a self-service facility available at supported airports.
+
+General procedure:
+
+1. Visit an IndiGo self-service kiosk.
+2. Enter the booking reference (PNR).
+3. Provide the requested passenger information.
+4. Select the passenger.
+5. Select a seat if available.
+6. Complete the required declarations.
+7. Confirm check-in.
+8. Collect the printed boarding pass.
+
+Kiosk availability depends on the airport.
+
+Passengers should complete kiosk check-in before the applicable airport check-in deadline.
+
+Official information:
+https://www.goindigo.in/kiosk-check-in.html
+
+==================================================
+8. AIRPORT COUNTER CHECK-IN
+==================================================
+
+Passengers can complete check-in at IndiGo airport counters, subject to the applicable airport and flight deadlines.
+
+DOMESTIC FLIGHTS:
+
+- Check-in counters close 60 minutes before scheduled departure.
+- IndiGo recommends arriving at the airport at least 2 hours before departure.
+
+INTERNATIONAL FLIGHTS:
+
+- Check-in counters close 75 minutes before scheduled departure.
+- IndiGo recommends arriving at the airport at least 4 hours before departure.
+
+Passengers should allow sufficient time for:
+
+- Check-in.
+- Baggage drop.
+- Security screening.
+- Immigration formalities, where applicable.
+- Boarding gate procedures.
+
+Passengers arriving after counter closure may be denied check-in.
+
+==================================================
+9. CHECKED BAGGAGE AFTER ONLINE CHECK-IN
+==================================================
+
+Passengers who have completed online check-in but are carrying checked baggage must proceed to the designated IndiGo baggage drop counter.
+
+Published deadlines:
+
+- Domestic flights: baggage must be handed over within the applicable 60-minute pre-departure deadline.
+- International flights: baggage must be handed over within the applicable 75-minute pre-departure deadline.
+
+Completing online check-in does not extend the baggage drop deadline.
+
+For baggage weight limits, cabin baggage and excess baggage charges, refer to:
+
+01_baggage_policy.txt
+
+==================================================
+10. BOARDING PASS
+==================================================
+
+A boarding pass is a document or electronic credential issued after successful check-in.
+
+It generally contains:
+
+- Passenger name.
+- Flight number.
+- Travel date.
+- Origin and destination.
+- Boarding gate, when assigned.
+- Boarding time.
+- Seat number, when assigned.
+
+Passengers can access their boarding pass after completing check-in.
+
+IndiGo provides facilities to view, download or print boarding passes through its website and supported digital channels.
+
+Official page:
+https://www.goindigo.in/boarding-pass.html
+
+Passengers should carry a printed or accessible electronic boarding pass, subject to airport requirements.
+
+A boarding pass does not guarantee boarding. Passengers must still carry valid identification, complete security checks and reach the boarding gate on time.
+
+==================================================
+11. AIRPORT IDENTIFICATION DOCUMENTS
+==================================================
+
+Passengers must present valid identification documents according to IndiGo's Conditions of Carriage and applicable government regulations.
+
+Examples of accepted identification for Indian domestic travel include:
+
+- Passport.
+- Voter photo identity card.
+- Aadhaar or m-Aadhaar issued by UIDAI.
+- PAN card.
+- Driving licence.
+- Government-issued service photo identity card.
+- Student photo identity card issued by a government or government-recognised educational institution.
+
+Different requirements may apply to infants, children and foreign nationals.
+
+For international journeys, passengers must carry the passport, visa and other documents required by the destination and transit countries.
+
+Official source:
+https://www.goindigo.in/information/conditions-of-carriage.html
+
+==================================================
+12. BOARDING GATE DEADLINE
+==================================================
+
+IndiGo's published Conditions of Carriage states that boarding gates close 25 minutes before scheduled departure.
+
+Passengers must reach the boarding gate before the applicable gate closure time.
+
+Important instructions:
+
+- Monitor airport display screens.
+- Check boarding gate announcements.
+- Follow instructions from airport and airline staff.
+- Proceed to the gate early.
+- Do not assume that the gate remains open until the scheduled departure time.
+
+Passengers arriving after gate closure may be denied boarding.
+
+==================================================
+13. SEAT SELECTION
+==================================================
+
+IndiGo provides assigned seating.
+
+Passengers may select seats through:
+
+- Advance seat selection during booking.
+- Booking management after reservation.
+- Web check-in.
+- Mobile check-in.
+- Airport kiosk, where available.
+- Airport check-in counter, where available.
+
+IndiGo's Seat Select service allows passengers to choose seats in advance, subject to availability and applicable charges.
+
+Seat selection fees depend on the seat type, flight and applicable fee schedule.
+
+Passengers should review the seat map and displayed charges before confirming a paid seat.
+
+Seat assignments may be changed by the airline for operational or safety reasons.
+
+==================================================
+14. EMERGENCY EXIT ROW SEATS
+==================================================
+
+Emergency exit row seats are subject to additional safety requirements.
+
+Passengers occupying these seats must:
+
+- Be at least 15 years old on the date of travel.
+- Be physically and mentally capable of assisting during an emergency.
+- Understand and follow crew instructions.
+- Be capable of operating or assisting with the emergency exit.
+- Not be pregnant.
+- Not have a condition that prevents them from performing the required emergency duties.
+
+Passengers who do not meet the applicable safety conditions cannot occupy emergency exit row seats.
+
+Airline staff may reassign passengers when required for safety reasons.
+
+==================================================
+15. SEAT ASSIGNMENT FOR FAMILIES
+==================================================
+
+Passengers travelling together may select seats during booking or check-in, subject to availability and applicable charges.
+
+Passengers should not assume that all members of a booking will automatically receive adjacent seats.
+
+Passengers travelling with children, infants or requiring special assistance should contact IndiGo in advance.
+
+Seat assignments remain subject to aircraft configuration and safety requirements.
+
+==================================================
+16. FAILURE TO CHECK IN OR ARRIVE ON TIME
+==================================================
+
+Passengers must complete check-in, baggage drop and boarding formalities within the applicable deadlines.
+
+Failure to:
+
+- Complete check-in on time.
+- Hand over checked baggage before the deadline.
+- Present valid travel documents.
+- Reach the boarding gate before closure.
+
+may result in denial of boarding or treatment as a no-show under the Conditions of Carriage.
+
+The consequences depend on the booking, fare conditions and applicable airline policy.
+
+Passengers should not assume that missing a flight automatically qualifies them for a full refund.
+
+==================================================
+17. SPECIAL ASSISTANCE
+==================================================
+
+Passengers requiring medical assistance, mobility assistance, stretcher services or other special arrangements should contact IndiGo before travelling.
+
+Certain passenger categories may not be eligible for standard online check-in and may need assistance at the airport counter.
+
+Examples include:
+
+- Unaccompanied minors.
+- Passengers with medical cases.
+- Passengers travelling on stretchers.
+- Passengers requiring special assistance.
+
+Passengers should follow the airline's instructions and arrive early enough to complete the required formalities.
+
+==================================================
+18. CUSTOMER SUPPORT TROUBLESHOOTING
+==================================================
+
+PROBLEM: Passenger cannot complete web check-in.
+
+Suggested guidance:
+
+- Verify the PNR and passenger details.
+- Confirm that the check-in window is open.
+- Check whether the passenger belongs to a restricted category.
+- Check whether the itinerary contains connecting flights.
+- If online check-in remains unavailable, contact IndiGo or use airport counter check-in before the deadline.
+
+PROBLEM: Passenger cannot download the boarding pass.
+
+Suggested guidance:
+
+- Confirm that check-in was completed successfully.
+- Retrieve the booking through the official boarding-pass facility.
+- Enter the required booking details.
+- Check the registered email or mobile delivery channel.
+- Contact IndiGo or airport staff if the problem continues.
+
+PROBLEM: Passenger wants to change their seat.
+
+Suggested guidance:
+
+- Retrieve the booking through IndiGo's website or application.
+- Open the seat-selection facility.
+- Review available seats.
+- Check the displayed fees.
+- Confirm the selection after reviewing the applicable charges.
+
+PROBLEM: Passenger has checked in but has checked baggage.
+
+Suggested guidance:
+
+- Proceed to the designated baggage drop counter.
+- Hand over baggage before the applicable deadline.
+- Do not assume that web check-in extends the baggage drop deadline.
+
+PROBLEM: Passenger missed boarding.
+
+Suggested guidance:
+
+- Confirm the scheduled departure and gate closure time.
+- Direct the passenger to IndiGo airport staff.
+- Explain that a boarding pass does not guarantee boarding after gate closure.
+- Do not promise a refund or free rebooking without checking the applicable policy.
+
+==================================================
+19. CUSTOMER SUPPORT RESPONSE GUIDELINES
+==================================================
+
+For check-in questions, identify:
+
+- Domestic or international journey.
+- Flight date and departure time.
+- Whether the passenger has a valid PNR.
+- Whether the passenger has connecting flights.
+- Whether the passenger has checked baggage.
+- Whether the passenger belongs to a special assistance category.
+
+For boarding-pass questions, identify:
+
+- Whether check-in was completed.
+- Whether the passenger can access the PNR.
+- Whether the passenger needs to download, print or retrieve the boarding pass.
+
+For seat-selection questions, identify:
+
+- Whether the passenger wants a standard or preferential seat.
+- Whether the booking is already confirmed.
+- Whether the requested seat is available.
+- Whether an additional fee applies.
+
+The RAG system should provide policy information only.
+
+It must not claim to:
+- Complete passenger check-in.
+- Issue a boarding pass.
+- Reserve a seat.
+- Modify a booking.
+
+These actions require confirmation from an authorized airline system or API.
+
+==================================================
+20. OFFICIAL REFERENCES
+==================================================
+
+Check-in Options:
+https://www.goindigo.in/travel-information/en/check-in-options.html
+
+Airport Check-in Requirements:
+https://www.goindigo.in/travel-information/en/airport-check-in-requirements.html
+
+Web Check-in:
+https://www.goindigo.in/web-check-in.html
+
+Conditions of Carriage:
+https://www.goindigo.in/information/conditions-of-carriage.html
+
+Boarding Pass:
+https://www.goindigo.in/boarding-pass.html
+
+Kiosk Check-in:
+https://www.goindigo.in/kiosk-check-in.html
+
+Mobile App Check-in:
+https://www.goindigo.in/app-check-in.html
+
+END OF DOCUMENT

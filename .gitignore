@@ -1,0 +1,44 @@
+# Environment Variables & Secrets
+.env
+*.env
+.env.*
+RAG-part/.env
+
+# Python Bytecode & Cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Virtual Environments
+venv/
+env/
+.venv/
+ENV/
+conda-meta/
+
+# IDE & OS Files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+Desktop.ini
+~$*.docx
+
+# Build & Distribution
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Temporary / Scratch Files
+*.log
+*.tmp
+build_documentation_docx.py
+

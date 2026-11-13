@@ -1,0 +1,686 @@
+DOCUMENT: 05_TRAVEL_INSURANCE
+AIRLINE: SpiceJet
+INSURANCE PROVIDER: Tata AIG General Insurance Company Ltd.
+POLICY: Domestic TravInsure
+DOCUMENT TYPE: Travel Insurance Knowledge Base
+SOURCE:
+https://corporate.spicejet.com/SpicejetTataAigFaqs.aspx
+
+============================================================
+1. OVERVIEW OF DOMESTIC TRAVINSURE
+============================================================
+
+Domestic TravInsure is a travel insurance programme designed for
+domestic passengers travelling with SpiceJet.
+
+The insurance programme is offered by Tata AIG General Insurance
+Company Ltd.
+
+It provides coverage for certain travel-related risks, including:
+
+- Accidental death and dismemberment.
+- Emergency accidental medical expenses.
+- Emergency medical evacuation.
+- Checked baggage loss.
+- Flight delay.
+- Trip cancellation.
+- Trip interruption.
+- Emergency assistance services.
+
+IMPORTANT:
+Coverage is subject to the specific policy wording, exclusions,
+deductibles, limits and conditions.
+
+The insurance FAQ is not a substitute for the actual insurance
+certificate or policy document.
+
+
+============================================================
+2. ELIGIBILITY
+============================================================
+
+According to the SpiceJet Domestic TravInsure FAQ:
+
+- The policy is intended for passengers travelling domestically
+  within India on SpiceJet.
+- Indian domestic passengers can purchase the policy.
+- Foreign passport holders may purchase it if they hold a valid
+  work permit in India and are travelling domestically within India.
+- Minimum age: 2 years on the date of travel.
+- Maximum age: 70 years on the date of travel.
+
+The actual eligibility must be confirmed against the policy
+applicable to the passenger's booking.
+
+
+============================================================
+3. POLICY VALIDITY
+============================================================
+
+Domestic TravInsure provides coverage for a maximum period of
+30 days from the policy commencement date.
+
+The policy commencement date is the date the journey begins
+on SpiceJet.
+
+For a one-way journey:
+- Coverage may continue for up to 30 days from the travel date,
+  subject to the policy conditions.
+
+For a round-trip journey:
+- Coverage ends when the passenger returns to the originating
+  city or when the 30-day validity period ends, whichever
+  applicable condition is reached according to the policy.
+
+For journeys involving other modes of transport:
+- Certain benefits, such as trip cancellation and flight delay,
+  are restricted to SpiceJet flights.
+- Other benefits may apply during the policy validity period,
+  subject to the policy wording.
+
+
+============================================================
+4. INSURANCE BENEFITS AND COVERAGE LIMITS
+============================================================
+
+The SpiceJet FAQ provides the following summary of Domestic
+TravInsure benefits:
+
+Benefit 1: Accidental Death and Dismemberment
+Maximum coverage: Rs. 7,50,000
+Coverage period: 24 hours, subject to policy conditions.
+
+This benefit provides compensation in the event of accidental
+death or covered dismemberment.
+
+In case of death, the benefit is payable to the insured person's
+legal heir.
+
+Benefit 2: Emergency Accidental Medical Reimbursement
+Maximum coverage shown in benefit table: Rs. 1,00,000.
+
+IMPORTANT SOURCE CONFLICT:
+The FAQ's benefit table states Rs. 1,00,000, while its explanatory
+paragraph mentions Rs. 7,50,000.
+
+The correct limit cannot be established from the FAQ alone.
+Refer to the passenger's actual policy schedule and wording.
+
+This benefit reimburses eligible medical expenses resulting
+from a covered accident during the trip.
+
+Benefit 3: Emergency Medical Evacuation and Repatriation
+Maximum coverage: Rs. 5,00,000.
+
+This benefit relates to eligible emergency transportation
+and repatriation expenses, subject to policy conditions.
+
+Benefit 4: 24-Hour Emergency Assistance
+Coverage: Included.
+
+The policy provides access to emergency assistance services.
+
+Benefit 5: Trip Cancellation
+Maximum coverage: Up to the original cost of the SpiceJet flight.
+
+This benefit may reimburse eligible flight costs if a trip
+must be cancelled for a reason covered by the policy.
+
+Covered reasons may include:
+- Unforeseen illness.
+- Injury.
+- Death involving the insured person.
+- Illness, injury or death involving an eligible immediate
+  family member or travel companion.
+
+The complete list of covered reasons must be checked in the
+policy wording.
+
+Benefit 6: Checked Baggage Loss
+Maximum coverage: Rs. 7,500.
+
+The FAQ states that baggage-loss coverage applies when the
+entire baggage is lost while in the custody of the common carrier.
+
+Partial loss or individual missing items should not automatically
+be treated as covered.
+
+Benefit 7: Flight Delay
+Maximum coverage: Rs. 1,500 per six-hour delay period,
+up to a maximum of Rs. 10,500.
+
+The benefit is subject to the delay conditions and requirements
+in the policy wording.
+
+Benefit 8: Common Carrier Delay
+Maximum coverage: Rs. 1,500 per six-hour delay period,
+up to a maximum of Rs. 10,500.
+
+Benefit 9: Trip Interruption
+Maximum coverage: Up to the original cost of the flight.
+
+This benefit may cover eligible expenses when a trip must be
+interrupted for a reason covered by the policy.
+
+IMPORTANT:
+All benefit amounts are specific to the Domestic TravInsure
+FAQ version. They must not be assumed to apply to every
+SpiceJet insurance product or booking.
+
+
+============================================================
+5. TRIP CANCELLATION
+============================================================
+
+Trip cancellation coverage is not an unrestricted cancellation
+or refund facility.
+
+The benefit applies only when the cancellation reason is
+covered by the insurance policy.
+
+Examples of potentially covered circumstances include:
+
+- Unforeseen illness.
+- Accidental injury.
+- Death of the insured person.
+- Death or qualifying illness/injury involving an eligible
+  immediate family member or travel companion.
+
+Pre-existing medical conditions and complications arising
+from them are excluded according to the FAQ.
+
+The customer must check the policy wording to confirm:
+
+- Whether the reason is covered.
+- Which documents are required.
+- The maximum payable amount.
+- Applicable deductibles and exclusions.
+
+The airline's normal ticket cancellation rules and the
+insurance claim process are separate processes.
+
+
+============================================================
+6. TRIP INTERRUPTION
+============================================================
+
+Trip interruption coverage may reimburse eligible costs
+up to the original cost of the flight.
+
+It applies only when the trip is interrupted because of
+a reason covered by the policy.
+
+The customer should refer to the actual policy wording
+for covered circumstances, documentation and claim limits.
+
+Do not promise reimbursement without confirming eligibility.
+
+
+============================================================
+7. FLIGHT DELAY
+============================================================
+
+The FAQ lists the following flight-delay benefit:
+
+- Rs. 1,500 for each qualifying six-hour delay period.
+- Maximum benefit: Rs. 10,500.
+
+The benefit is subject to the policy's definition of a
+qualifying delay and other conditions.
+
+Important distinctions:
+
+- An airline delay does not automatically guarantee
+  an insurance payout.
+- The delay must satisfy the policy conditions.
+- Required supporting documents may be necessary.
+- The insurance benefit is separate from any compensation
+  or assistance available under aviation passenger-rights rules.
+
+Customers should retain their booking confirmation and
+official flight-delay communication.
+
+
+============================================================
+8. BAGGAGE LOSS
+============================================================
+
+The FAQ lists a maximum checked-baggage-loss benefit
+of Rs. 7,500.
+
+The FAQ specifically states that the entire baggage must
+have been lost while in the custody of the common carrier.
+
+This means:
+
+- Complete baggage loss may qualify, subject to the policy.
+- A missing item inside otherwise delivered baggage should
+  not automatically be treated as covered.
+- Delayed baggage and damaged baggage are separate situations.
+- The actual policy wording determines the final coverage.
+
+Recommended customer action:
+
+1. Report the missing baggage to the airline immediately.
+2. Obtain a Property Irregularity Report (PIR) or equivalent
+   official baggage report.
+3. Keep the baggage tag and boarding pass.
+4. Preserve receipts and other supporting documents.
+5. Contact Tata AIG to understand the claim requirements.
+
+
+============================================================
+9. MEDICAL EMERGENCY AND ACCIDENTS
+============================================================
+
+The policy provides benefits for eligible accidental
+medical expenses and emergency medical evacuation.
+
+If a passenger experiences an accident during the covered trip:
+
+1. Seek immediate medical assistance.
+2. Contact the insurance provider using the official
+   assistance or claims contact details.
+3. Keep hospital records and medical bills.
+4. Preserve prescriptions, diagnostic reports and
+   other supporting documents.
+5. Follow the insurer's claim procedure.
+
+Medical expenses are reimbursed only when they satisfy
+the policy conditions.
+
+IMPORTANT EXCLUSIONS:
+
+- Pre-existing medical conditions are not covered according
+  to the FAQ.
+- Complications arising from pre-existing conditions are
+  also excluded.
+- Sports and similar activities are not covered under
+  this Domestic TravInsure policy, according to the FAQ.
+
+Do not assume that every illness, injury or medical expense
+is covered.
+
+
+============================================================
+10. SPORTS AND ADVENTURE ACTIVITIES
+============================================================
+
+The SpiceJet Domestic TravInsure FAQ states that sports
+and similar activities are not covered.
+
+Passengers participating in sports or adventure activities
+should not assume that accidents during those activities
+will qualify for reimbursement.
+
+The actual policy wording must be checked for the complete
+list of excluded activities.
+
+
+============================================================
+11. CONNECTING FLIGHTS AND OTHER TRANSPORT
+============================================================
+
+The FAQ distinguishes between SpiceJet flights and other
+transport arrangements.
+
+Trip cancellation and flight-delay benefits are restricted
+to SpiceJet flights.
+
+Other eligible benefits may remain applicable during the
+policy validity period, even when the passenger uses another
+mode of transport for part of the journey.
+
+The exact applicability depends on the policy conditions.
+
+Do not assume that every connecting flight operated by
+another airline is covered for delay or cancellation.
+
+
+============================================================
+12. POLICY CANCELLATION AND REFUND
+============================================================
+
+According to the Domestic TravInsure FAQ:
+
+- The policy is non-cancellable.
+- The insurance premium is non-refundable.
+- The policy cannot be changed once issued, even if the
+  passenger postpones or extends the trip.
+
+These statements refer to the specific Domestic TravInsure
+policy described in the FAQ.
+
+Do not confuse an insurance-premium refund with a flight-ticket
+refund.
+
+Flight-ticket cancellation and insurance-premium refund
+are separate matters.
+
+
+============================================================
+13. CHANGE IN TRAVEL DATE
+============================================================
+
+The Domestic TravInsure FAQ states that the policy cannot
+be changed once issued.
+
+However, it also explains that when SpiceJet reschedules
+a return flight, the insurance automatically changes to
+the new flight if the rescheduled flight is within the
+specified 30-day policy period.
+
+The customer should confirm the policy status with Tata AIG
+when travel dates or flight arrangements change.
+
+Do not guarantee coverage after a voluntary flight change
+or trip extension.
+
+
+============================================================
+14. CERTIFICATE OF INSURANCE
+============================================================
+
+Passengers are encouraged to carry a copy of their
+Certificate of Insurance while travelling.
+
+The FAQ states that successful processing should be reflected
+on the SpiceJet confirmation page and itinerary.
+
+If the passenger has not received the certificate or has
+lost it, they can contact Tata AIG.
+
+The passenger may need to provide:
+
+- Certificate number, if available.
+- Full name.
+- SpiceJet flight booking number.
+- Travel dates.
+- Date of insurance purchase.
+
+The insurer can use these details to help locate the policy
+and provide a copy, subject to verification.
+
+
+============================================================
+15. CLAIM PROCESS
+============================================================
+
+For an insurance claim:
+
+Step 1:
+Identify the type of claim:
+- Medical emergency.
+- Accidental death or dismemberment.
+- Baggage loss.
+- Flight delay.
+- Trip cancellation.
+- Trip interruption.
+- Emergency evacuation.
+
+Step 2:
+Contact Tata AIG using its official support channels.
+
+Step 3:
+Explain the incident and provide the policy or certificate
+number, if available.
+
+Step 4:
+Collect the documents requested by the insurer.
+
+Examples of supporting documents may include:
+
+- Certificate of Insurance.
+- Flight ticket and booking confirmation.
+- Boarding pass.
+- Government-issued identity document.
+- Medical reports and hospital bills.
+- Death certificate, where applicable.
+- Baggage irregularity report.
+- Airline delay or cancellation confirmation.
+- Receipts and proof of expenses.
+
+The required documents depend on the claim type.
+
+Step 5:
+Submit the claim and supporting documents according
+to the insurer's instructions.
+
+Step 6:
+Follow up with Tata AIG using the claim reference number.
+
+
+============================================================
+16. CLAIM PROCESSING TIME
+============================================================
+
+The SpiceJet Domestic TravInsure FAQ states:
+
+- Claims are processed within 14 days after Tata AIG
+  receives all required documentation.
+- Claims must be submitted within 30 days from the expiry
+  of the policy.
+
+These are the timelines stated on the FAQ page.
+
+Actual processing may depend on document completeness,
+claim verification and applicable policy requirements.
+
+Customers should confirm current claim deadlines directly
+with Tata AIG.
+
+
+============================================================
+17. TATA AIG CONTACT INFORMATION
+============================================================
+
+Insurance provider:
+Tata AIG General Insurance Company Ltd.
+
+Email:
+customersupport@tata-aig.com
+
+24-hour toll-free helpline:
+1800-266-7780
+
+Additional toll-free number:
+1800-11-9966
+(FAQ specifies accessibility from BSNL/MTNL lines.)
+
+Website:
+https://www.tataaiginsurance.in
+
+The FAQ also lists the following local contact numbers:
+
+Mumbai: 66939500
+Delhi: 66603500
+Bangalore: 66500001
+Pune: 66014156
+Chennai: 66841050
+Hyderabad: 66629882
+Ahmedabad: 66610201
+
+Claims department address listed in the FAQ:
+
+Tata AIG General Insurance Company Ltd.
+A-501, 5th Floor, Building No. 4,
+Infinity Park, Gen. A. K. Vaidya Marg,
+Dindoshi, Malad (East),
+Mumbai, India - 400097.
+
+IMPORTANT:
+These contact details are reproduced from the SpiceJet FAQ.
+Verify that the numbers and email address are still active
+before using them in a live customer-support system.
+
+
+============================================================
+18. IMPORTANT EXCLUSIONS AND LIMITATIONS
+============================================================
+
+According to the FAQ, the following limitations apply:
+
+1. Pre-existing medical conditions are not covered.
+2. Complications arising from pre-existing conditions
+   are not covered.
+3. Sports and similar activities are not covered.
+4. Trip cancellation applies only to specified covered reasons.
+5. Flight-delay and trip-cancellation benefits are restricted
+   to SpiceJet flights.
+6. Checked-baggage-loss coverage requires the entire baggage
+   to have been lost while in the custody of the carrier.
+7. The policy has a maximum validity period of 30 days,
+   subject to the return-journey condition.
+8. The policy cannot be cancelled or changed once issued,
+   subject to the stated rescheduling condition.
+
+The complete exclusions must be obtained from the actual
+policy wording.
+
+
+============================================================
+19. CUSTOMER SUPPORT DECISION GUIDELINES
+============================================================
+
+If the customer asks:
+"Does my travel insurance cover flight delays?"
+
+Respond:
+The Domestic TravInsure FAQ lists a benefit of Rs. 1,500
+per qualifying six-hour delay period, up to Rs. 10,500.
+The payout depends on the policy conditions and qualifying
+delay requirements.
+
+If the customer asks:
+"Will I get my money back if I cancel my trip?"
+
+Respond:
+Trip cancellation insurance may cover eligible cancellation
+reasons such as specified illness, injury or death-related
+emergencies. It does not cover every voluntary cancellation.
+The actual policy wording determines eligibility.
+
+If the customer asks:
+"Does travel insurance cover pre-existing diseases?"
+
+Respond:
+The Domestic TravInsure FAQ states that pre-existing
+conditions and complications arising from them are not covered.
+
+If the customer asks:
+"Is lost baggage covered?"
+
+Respond:
+The FAQ lists checked-baggage-loss coverage up to Rs. 7,500.
+It specifies that the entire baggage must have been lost
+while in the custody of the common carrier. The claim is
+subject to policy conditions.
+
+If the customer asks:
+"How can I file an insurance claim?"
+
+Respond:
+Contact Tata AIG through its official support channels.
+Keep your Certificate of Insurance, flight details and
+supporting documents ready.
+
+If the customer asks:
+"Can I cancel my insurance separately?"
+
+Respond:
+The Domestic TravInsure FAQ describes the policy as
+non-cancellable and the premium as non-refundable.
+Please confirm your specific policy conditions with Tata AIG.
+
+If the customer asks:
+"Is my connecting flight covered?"
+
+Respond:
+The FAQ restricts trip cancellation and flight-delay benefits
+to SpiceJet flights. Other benefits may apply during the
+policy validity period, subject to the policy wording.
+
+If the customer asks:
+"What is my exact insurance coverage?"
+
+Respond:
+Please check your Certificate of Insurance and policy schedule.
+Coverage limits and conditions depend on the policy issued
+for your booking.
+
+
+============================================================
+20. RAG AGENT RULES
+============================================================
+
+1. Identify the insurance provider and exact policy before
+   answering coverage questions.
+
+2. Do not mix Tata AIG Domestic TravInsure with other
+   SpiceJet insurance products.
+
+3. Do not mix domestic and international insurance policies.
+
+4. Never promise that a claim will be approved.
+
+5. Never describe travel insurance as a guaranteed
+   flight-ticket refund.
+
+6. Always distinguish between:
+   - Flight cancellation by the airline.
+   - Voluntary ticket cancellation by the passenger.
+   - Insurance-based trip cancellation.
+   - Insurance-premium refund.
+
+7. If the customer asks about a specific claim, request
+   the relevant policy and incident details.
+
+8. If the policy wording is unavailable or a coverage
+   condition is unclear, direct the customer to Tata AIG.
+
+9. Do not invent coverage amounts, deductibles, exclusions,
+   waiting periods or claim deadlines.
+
+10. If the FAQ contains conflicting information, disclose
+    the conflict and ask the customer to verify the policy
+    schedule.
+
+11. Do not treat the FAQ as a replacement for the actual
+    Certificate of Insurance.
+
+12. Escalate disputed claims and complex insurance questions
+    to the insurer or a human support representative.
+
+
+============================================================
+21. SOURCE AND DATA QUALITY NOTES
+============================================================
+
+Primary source:
+SpiceJet - Domestic TravInsure FAQs
+https://corporate.spicejet.com/SpicejetTataAigFaqs.aspx
+
+Insurance provider:
+Tata AIG General Insurance Company Ltd.
+
+Important source limitations:
+
+1. The FAQ contains legacy policy information and should not
+   automatically be treated as the currently offered product.
+
+2. The benefit table lists emergency accidental medical
+   reimbursement as Rs. 1,00,000, while a later explanatory
+   paragraph states Rs. 7,50,000. This conflict remains unresolved.
+
+3. The linked policy-wording and product-description pages
+   were unavailable during preparation of this document.
+
+4. Contact details and claim timelines may change.
+
+5. The FAQ should be used for general information and
+   retrieval, not as the final authority for claim decisions.
+
+6. Always prioritize the passenger's actual Certificate
+   of Insurance, policy schedule and current policy wording.
+
+END OF DOCUMENT

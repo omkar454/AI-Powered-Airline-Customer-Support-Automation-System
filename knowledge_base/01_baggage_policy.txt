@@ -1,0 +1,257 @@
+DOCUMENT: INDIGO BAGGAGE POLICY
+AIRLINE: IndiGo
+CATEGORY: Baggage Allowance and Restrictions
+SOURCE TYPE: Official Airline Policy
+SOURCE URL: https://www.goindigo.in/information/baggage-policy.html
+RELATED SOURCES:
+https://www.goindigo.in/baggage/baggage-allowance.html
+https://www.goindigo.in/baggage/cabin-baggage.html
+https://www.goindigo.in/baggage/excess-baggage.html
+https://www.goindigo.in/information/fees-and-charges.html
+
+==================================================
+1. GENERAL BAGGAGE POLICY
+==================================================
+
+IndiGo allows passengers to carry baggage according to the applicable baggage allowance, fare type, destination, and flight sector.
+
+Baggage is divided into two main categories:
+1. Hand baggage (cabin baggage).
+2. Checked-in baggage.
+
+Baggage allowances may differ for domestic flights, international flights, codeshare flights, and special fare categories.
+
+Passengers should always verify their specific allowance using their booking confirmation and flight ticket.
+
+==================================================
+2. HAND BAGGAGE / CABIN BAGGAGE
+==================================================
+
+Standard cabin baggage allowance:
+
+- One hand baggage piece per passenger.
+- Maximum weight: 7 kg.
+- Maximum dimensions: 55 cm x 35 cm x 25 cm.
+- Maximum combined dimensions: 115 cm (Length + Width + Height).
+- Dimensions include handles and wheels.
+
+Additional personal article:
+
+Passengers may carry one additional personal article, such as:
+- Ladies' purse.
+- Laptop bag.
+- Small bag containing a laptop.
+- Small infant bag when travelling with an infant.
+
+Maximum weight of the additional personal article: 3 kg.
+
+The additional personal article allowance includes applicable duty-free items purchased at the airport.
+
+Cabin baggage must fit safely in the overhead compartment or under the passenger's seat. If sufficient cabin storage space is unavailable, the airline may transfer the baggage to the aircraft's checked baggage compartment.
+
+Oversized or overweight cabin baggage may be transferred to checked baggage, and applicable charges may apply.
+
+==================================================
+3. CHECKED-IN BAGGAGE
+==================================================
+
+Checked-in baggage is transported in the aircraft's baggage compartment.
+
+DOMESTIC FLIGHTS:
+
+The published standard allowance is:
+- 15 kg per passenger.
+- One piece of checked-in baggage.
+
+Double Seat or Multi-Seat bookings may receive an additional 10 kg allowance, subject to applicable conditions.
+
+Passengers travelling on Lite or promotional fares may have different checked baggage entitlements. Some such fares may not include free checked baggage.
+
+INTERNATIONAL FLIGHTS:
+
+Checked baggage allowance depends on the destination and flight sector.
+
+Examples of published allowances include:
+- Bangkok, Bali, Kathmandu, Krabi, Male, Mauritius and Phuket: 20 kg per passenger, subject to sector conditions.
+- Jeddah and Madinah departures to India: 30 kg per passenger, including applicable Zam Zam water provisions.
+- Several other international destinations, including Dubai, Singapore, Muscat, Doha and Kuala Lumpur: 30 kg per passenger, subject to sector conditions.
+- Nairobi: 25 kg per passenger.
+- Jaffna: 15 kg per passenger.
+
+For codeshare flights, the operating or partner airline's baggage rules may apply.
+
+IMPORTANT:
+The passenger's ticket and booking confirmation take precedence for the applicable journey allowance.
+
+==================================================
+4. CHECKED BAGGAGE DIMENSIONS AND WEIGHT
+==================================================
+
+Standard maximum checked baggage dimensions:
+- 158 cm (62 inches) total.
+- Calculated as Length + Width + Height.
+
+For ATR aircraft:
+- Maximum dimensions: 152 cm x 58 cm x 101 cm.
+
+For international travel, the maximum weight permitted per checked baggage piece is generally 32 kg, subject to applicable route and regulatory restrictions.
+
+Some routes have additional packaging and baggage acceptance requirements.
+
+==================================================
+5. EXCESS BAGGAGE
+==================================================
+
+Passengers carrying baggage above their permitted free allowance may be charged excess baggage fees.
+
+Excess baggage charges depend on:
+- Domestic or international route.
+- Additional baggage weight.
+- Number of baggage pieces.
+- Destination and applicable currency.
+- Whether the excess baggage is purchased in advance or at the airport.
+
+Passengers can purchase prepaid excess baggage through IndiGo's website or call centre, subject to the applicable booking deadline.
+
+The airline publishes different prepaid baggage slabs and airport per-kilogram charges.
+
+Additional baggage pieces may attract a separate per-piece charge in addition to excess weight charges.
+
+Excess baggage charges are generally non-refundable in case of a no-show or gate no-show.
+
+For current charges, refer to:
+https://www.goindigo.in/information/fees-and-charges.html
+
+==================================================
+6. SPECIAL BAGGAGE
+==================================================
+
+Special baggage includes items such as:
+- Sports equipment.
+- Golf bags.
+- Bicycles.
+- Surfboards.
+- Skiing equipment.
+- Scuba diving equipment.
+- Kayaks.
+- Musical instruments.
+- Large LCD and LED televisions.
+
+Special baggage may require:
+- Advance notification to the airline.
+- Special handling charges.
+- Appropriate packaging.
+- Compliance with weight and size restrictions.
+
+Passengers intending to carry special baggage should contact IndiGo in advance. The published policy specifies advance notification of at least 48 hours for certain special baggage items.
+
+Applicable fees may be charged per piece and per flight sector.
+
+==================================================
+7. POWER BANKS AND LITHIUM BATTERIES
+==================================================
+
+Power banks and spare or loose lithium batteries must be carried in hand baggage only.
+
+They must:
+- Remain within the passenger's personal reach.
+- Not be placed in checked baggage.
+- Not be stored in overhead compartments, according to the baggage-policy instructions.
+
+Additional restrictions apply to battery capacity and use during the flight.
+
+Passengers should check the latest dangerous-goods and battery safety instructions before travelling.
+
+==================================================
+8. LIQUIDS IN CABIN BAGGAGE
+==================================================
+
+Liquids carried in hand baggage are subject to airport security restrictions.
+
+General allowance:
+- Each liquid container must not exceed 100 ml.
+- Containers must fit inside a transparent, resealable plastic bag.
+- Maximum bag capacity: 1 litre.
+
+All liquids are subject to applicable airport security screening and local regulations.
+
+==================================================
+9. INFANT BAGGAGE ALLOWANCE
+==================================================
+
+Infant baggage provisions include:
+
+- One hand baggage piece, subject to the standard 7 kg and dimension limits.
+- No separate checked baggage allowance for an infant under the published standard allowance.
+- One stroller or baby pram per infant may be carried without charge, subject to airline conditions.
+
+Passengers should confirm the applicable infant baggage rules for their particular booking.
+
+==================================================
+10. CONNECTING FLIGHT BAGGAGE
+==================================================
+
+For domestic and international connecting flights operated by IndiGo, the applicable international baggage allowance may apply when the connecting journey is booked under a single PNR.
+
+For connections involving another airline, baggage handling and allowance rules may differ.
+
+IndiGo does not generally transfer checked baggage to other airlines automatically. Passengers may need to collect their baggage and check it in again with the next airline.
+
+Passengers should confirm baggage transfer arrangements before booking connecting flights.
+
+==================================================
+11. BAGGAGE SAFETY AND GENERAL ADVISORIES
+==================================================
+
+Passengers should follow these precautions:
+
+- Clearly label baggage with their name and contact information.
+- Do not leave baggage unattended at airports.
+- Do not accept baggage or packages from unknown persons.
+- Do not carry prohibited or restricted articles.
+- Declare applicable restricted items to airline and airport authorities.
+- Pack fragile items appropriately.
+- Follow all airport security instructions.
+
+Items prohibited by applicable security regulations may be removed during screening.
+
+==================================================
+12. IMPORTANT CUSTOMER SUPPORT GUIDANCE
+==================================================
+
+When answering baggage-related questions, the support agent should identify:
+
+1. Whether the passenger is travelling domestically or internationally.
+2. The passenger's destination.
+3. The fare type.
+4. Whether the question concerns cabin baggage or checked baggage.
+5. The number of baggage pieces.
+6. The total baggage weight.
+7. Whether the passenger is carrying special baggage.
+
+The agent must not assume that every passenger has the same checked baggage allowance.
+
+If the passenger asks about current excess baggage charges, the agent should refer to the latest official IndiGo fees and charges page.
+
+If the passenger asks about an unusual, restricted, or dangerous item, the agent should refer them to IndiGo's latest baggage and dangerous-goods guidance.
+
+==================================================
+13. OFFICIAL REFERENCES
+==================================================
+
+Main Baggage Policy:
+https://www.goindigo.in/information/baggage-policy.html
+
+Baggage Allowance:
+https://www.goindigo.in/baggage/baggage-allowance.html
+
+Cabin Baggage:
+https://www.goindigo.in/baggage/cabin-baggage.html
+
+Excess Baggage:
+https://www.goindigo.in/baggage/excess-baggage.html
+
+Fees and Charges:
+https://www.goindigo.in/information/fees-and-charges.html
+
+END OF DOCUMENT

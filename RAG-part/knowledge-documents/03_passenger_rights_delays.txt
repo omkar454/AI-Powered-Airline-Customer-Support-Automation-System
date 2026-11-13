@@ -1,0 +1,157 @@
+DOCUMENT: DGCA PASSENGER CHARTER OF RIGHTS
+AUTHORITY: Ministry of Civil Aviation & DGCA, Government of India
+CATEGORY: Passenger Rights, Flight Delays, Cancellations, Denied Boarding, and Refunds
+SOURCE: Official DGCA Passenger Charter (CAR Section 3, Series M)
+SOURCE URL: https://civilaviation.gov.in/
+
+==================================================
+1. OVERVIEW AND SCOPE
+==================================================
+
+The Passenger Charter published by the Ministry of Civil Aviation defines the statutory rights of air travelers in India. 
+
+These rules apply to all scheduled domestic flights operating within India and international flights originating from India, subject to DGCA Civil Aviation Requirements (CAR Section 3, Series M).
+
+The rules govern airline responsibilities for:
+- Flight delays.
+- Flight cancellations.
+- Denied boarding due to overbooking.
+- Refund procedures and statutory deductions.
+- Flight diversions.
+- Passenger baggage loss and damage.
+- Facilities for passengers with disabilities.
+- Grievance escalation mechanisms (AirSewa).
+
+==================================================
+2. FLIGHT DELAYS AND PASSENGER RIGHTS
+==================================================
+
+When a flight is delayed, passenger entitlements depend on the scheduled flight duration (block time) and length of the delay:
+
+SCENARIO 1: PASSENGERS CHECKED IN ON TIME
+Airlines must provide free-of-charge meals and refreshments matching waiting time when delay reaches:
+- 2 hours or more: for flights having a block time of up to 2.5 hours.
+- 3 hours or more: for flights having a block time between 2.5 hours and 5 hours.
+- 4 hours or more: for all other flights.
+
+*Block time is the total flight duration measured from aircraft pushback from departure gate to arrival at destination gate.
+
+SCENARIO 2: DOMESTIC DELAY EXCEEDING 6 HOURS
+If a domestic flight is expected to be delayed by more than 6 hours:
+- Rescheduled departure time must be communicated to passengers more than 24 hours prior to original departure.
+- The airline must offer passengers an alternate flight departing within 6 hours OR a 100% full ticket refund.
+
+SCENARIO 3: OVERNIGHT OR EXTENDED DELAYS
+If the airline announces a delay more than 24 hours prior, and the delay exceeds 24 hours (or exceeds 6 hours for flights scheduled to depart between 20:00 and 03:00 hours):
+- The airline must provide free hotel accommodation and airport transfers.
+
+==================================================
+3. FLIGHT CANCELLATIONS AND COMPENSATION
+==================================================
+
+Airlines must inform passengers of scheduled flight cancellations at least 2 weeks before the scheduled departure time and provide an alternate flight or refund acceptable to the passenger.
+
+SCENARIO 1: NOTICE LESS THAN 2 WEEKS UP TO 24 HOURS
+If cancellation is communicated less than 2 weeks but up to 24 hours before departure:
+- The airline must offer an alternate flight departing within a reasonable timeframe or issue a full refund.
+
+SCENARIO 2: LAST MINUTE CANCELLATION (LESS THAN 24 HOURS NOTICE OR NO NOTICE)
+If passengers are not informed 24 hours in advance, or if they miss a connecting flight booked under the same PNR/ticket number:
+The airline must provide an alternate flight OR a full refund PLUS statutory financial compensation:
+- Block time up to 1 hour: Compensation of Rs. 5,000 OR booked one-way basic fare plus fuel charge (whichever is less).
+- Block time between 1 and 2 hours: Compensation of Rs. 7,500 OR booked one-way basic fare plus fuel charge (whichever is less).
+- Block time exceeding 2 hours: Compensation of Rs. 10,000 OR booked one-way basic fare plus fuel charge (whichever is less).
+
+ADDITIONAL CANCELLATION CONDITIONS:
+- Meals and refreshments must be provided free of charge while waiting for alternate flights.
+- Financial compensation is not payable if the passenger failed to provide valid contact details (mobile number/email) at booking.
+- If the airline moves the flight to an alternate airport/terminal, the airline must bear transfer costs unless the passenger was informed at least 6 hours in advance.
+
+==================================================
+4. DENIED BOARDING (OVERBOOKING)
+==================================================
+
+Overbooking occurs when the number of confirmed passengers reporting on time exceeds the available seats.
+
+PROCEDURE:
+1. The airline must first ask for voluntary passengers to surrender their seats in exchange for negotiated benefits.
+2. If forced denied boarding occurs against a passenger's will:
+
+COMPENSATION ENTITLEMENTS:
+- Alternate flight within 1 hour: No financial compensation is payable if an alternate flight departing within 1 hour is arranged.
+- Alternate flight within 24 hours: 200% of booked one-way basic fare plus fuel charge, up to a maximum of Rs. 10,000.
+- Alternate flight after 24 hours: 400% of booked one-way basic fare plus fuel charge, up to a maximum of Rs. 20,000.
+- Passenger declines alternate flight: 100% full ticket refund PLUS 400% of booked one-way basic fare plus fuel charge, up to a maximum of Rs. 20,000.
+
+==================================================
+5. TICKET REFUND POLICIES AND CHARGES
+==================================================
+
+REFUND TIMELINES:
+- Cash payments: Refund must be processed immediately at the airport ticket counter.
+- Credit / Debit Card payments: Refund must be completed within 7 business days.
+- Travel Agent / Portal bookings: Refund is routed through the booking agent.
+
+STATUTORY TAX REFUNDS:
+- If a passenger cancels a ticket, airlines MUST refund all statutory taxes, User Development Fees (UDF), Airport Development Fees (ADF), and Passenger Service Fees (PSF).
+- This statutory tax refund applies to all ticket categories, including non-refundable, promotional, and special discounted fares.
+
+CREDIT SHELL POLICY:
+- Holding refunds in a credit shell is strictly the passenger's choice and cannot be imposed as a default practice by the airline.
+- Airlines cannot charge an administrative fee for processing refunds.
+
+24-HOUR "LOOK-IN" CANCELLATION AND CORRECTION WINDOW:
+- Passengers can cancel or amend a ticket with zero cancellation or modification charges within 24 hours of booking, provided travel date is at least 7 days away.
+- Airlines cannot levy any fee for correcting genuine passenger name spelling errors if notified within 24 hours of booking.
+
+==================================================
+6. FLIGHT DIVERSIONS
+==================================================
+
+When a flight is diverted to an unscheduled airport:
+- Waiting time under 2 hours: Refreshments, water, tea/coffee and regular status announcements must be provided on board or at the terminal.
+- Waiting time over 2 hours: The airline must immediately arrange disembarkation of passengers at the nearest airport with appropriate meals and facilitation.
+
+==================================================
+7. BAGGAGE LOSS, DAMAGE, AND DELAYS
+==================================================
+
+DOMESTIC CARRIAGE LIABILITY:
+- Lost, damaged, or delayed checked baggage: Carrier liability is capped at Rs. 20,000 per passenger.
+- Cargo loss or damage: Carrier liability is capped at Rs. 350 per kilogram.
+
+INTERNATIONAL CARRIAGE LIABILITY:
+- Baggage liability: Limited to 1,131 Special Drawing Rights (SDR) per passenger under the Montreal Convention.
+- Cargo liability: Limited to 19 SDR per kilogram.
+
+CONDITIONS:
+- Compensation is payable if the damage/loss occurred while checked baggage was in airline custody.
+- For unchecked hand baggage, the airline is liable only if damage resulted from its own fault or staff negligence.
+
+==================================================
+8. SPECIAL ASSISTANCE FOR PASSENGERS WITH DISABILITIES
+==================================================
+
+- No airline can deny carriage to persons with disabilities or reduce mobility, nor refuse to transport assistive aids, mobility equipment, escorts, or certified guide dogs.
+- Passengers should notify special requirements at least 48 hours prior to scheduled departure.
+- If accompanied by an escort, airlines must make reasonable efforts to assign adjacent seating.
+- Assistive devices within India must be provided without any additional fee.
+- If carriage is denied on safety grounds, the airline must state the precise reasons in writing.
+
+==================================================
+9. ESCALATION AND DISPUTE RESOLUTION
+==================================================
+
+PASSENGER GRIEVANCE PROCESS:
+1. Help Desks: File initial claims at airline help desks at departure/arrival terminals.
+2. AirSewa: If unresolved by the airline, register a grievance on the Ministry of Civil Aviation's official AirSewa portal (www.airsewa.gov.in) or mobile application.
+3. Legal Remedies: If unsatisfied with AirSewa resolution, passengers retain the right to approach consumer forums or statutory courts.
+
+FORCE MAJEURE (EXCLUSIONS):
+Airlines are exempt from paying delay/cancellation compensation if disruptions are caused by extraordinary circumstances beyond airline control, including:
+- Natural disasters, extreme meteorological conditions, floods.
+- Air traffic control (ATC) restrictions or directives.
+- Security emergencies, political instability, strikes, or civil unrest.
+
+==================================================
+END OF DOCUMENT

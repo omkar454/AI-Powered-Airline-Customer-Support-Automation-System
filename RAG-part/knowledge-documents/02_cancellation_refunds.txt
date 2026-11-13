@@ -1,0 +1,368 @@
+DOCUMENT: INDIGO CONDITIONS OF CARRIAGE
+AIRLINE: IndiGo
+CATEGORY: Booking, Flight Changes, Cancellations and Refunds
+SOURCE: Official IndiGo Website
+SOURCE URL:
+https://www.goindigo.in/information/conditions-of-carriage.html
+
+==================================================
+1. INTRODUCTION
+==================================================
+
+IndiGo's Conditions of Carriage define the terms and conditions applicable to passengers travelling on IndiGo flights.
+
+These conditions cover:
+- Flight bookings.
+- Changes to bookings.
+- Flight cancellations.
+- Refund processing.
+- No-show situations.
+- Flight delays and cancellations by the airline.
+- Connecting flights.
+- Passenger responsibilities.
+
+The conditions apply subject to applicable laws, regulatory requirements, and the specific fare rules associated with the booking.
+
+IMPORTANT:
+The passenger's booking confirmation and applicable fare conditions must be checked before providing a final answer about charges or refunds.
+
+==================================================
+2. GENERAL BOOKING CONDITIONS
+==================================================
+
+A booking represents the contract of carriage between IndiGo and the passenger named in the booking.
+
+Passengers must:
+- Provide correct passenger information.
+- Provide valid contact details, including email address and mobile number.
+- Carry valid identification documents.
+- Follow applicable travel and security requirements.
+
+For international travel, passengers must ensure that their passports and travel documents satisfy the applicable destination requirements.
+
+The booking information stored in IndiGo's official booking system is the primary record of carriage.
+
+Passengers should verify their booking details after receiving the itinerary.
+
+Certain discounted and promotional fares may have restricted or non-refundable conditions.
+
+==================================================
+3. FLIGHT CHANGE POLICY
+==================================================
+
+Passengers may request changes to their flight bookings, subject to the applicable fare conditions.
+
+Flight changes may include:
+- Changing the travel date.
+- Changing the flight.
+- Changing the travel sector, where permitted.
+- Correcting eligible passenger name spelling errors.
+
+Important conditions:
+
+1. Flight changes must be requested within the applicable time limit before scheduled departure.
+2. Change fees depend on the passenger's fare type and applicable route.
+3. The revised booking is priced using the fare available when the change is made.
+4. If the new fare is higher, the passenger must pay the difference.
+5. If the revised booking costs less, the remaining amount is handled according to applicable fare conditions.
+6. Some promotional fares may restrict or exclude changes.
+
+A passenger should check the fare conditions displayed at the time of booking.
+
+==================================================
+4. FLIGHT CANCELLATION POLICY
+==================================================
+
+Passengers may cancel their bookings subject to IndiGo's cancellation rules and the selected fare type.
+
+Cancellation conditions:
+
+- Cancellation fees may apply.
+- The cancellation fee depends on the fare type and applicable sector.
+- Some promotional or discounted fares may have additional restrictions.
+- The applicable cancellation fee is deducted from the refundable amount.
+- The remaining eligible amount is processed according to IndiGo's refund policy.
+
+Passengers should make cancellation requests before the applicable cancellation deadline.
+
+Cancellations made close to departure may attract additional charges or no-show conditions.
+
+IMPORTANT:
+The exact cancellation charge cannot be determined from the fare category alone. The passenger's route, travel date, fare type and booking conditions must be checked.
+
+==================================================
+5. LOOK-IN PERIOD AND NAME CORRECTION
+==================================================
+
+LOOK-IN OPTION:
+
+IndiGo provides a look-in option for eligible bookings.
+
+For qualifying international bookings, passengers may modify or cancel their booking within 48 hours of making the booking, provided the flight departure is at least 15 days away.
+
+Applicable conditions and any fare difference must be considered.
+
+NAME CORRECTION:
+
+IndiGo generally does not permit changing the passenger's name after booking.
+
+However, eligible spelling corrections for the same passenger may be permitted within 24 hours of booking without additional charges when:
+- The booking was made directly through IndiGo's website or mobile application.
+- The correction request meets IndiGo's applicable conditions.
+
+For codeshare flights, the operating partner's name-correction policy may apply.
+
+==================================================
+6. REFUND POLICY
+==================================================
+
+Refund eligibility depends on:
+- Whether the booking was cancelled.
+- The passenger's fare type.
+- The cancellation time.
+- Applicable cancellation charges.
+- Whether the passenger checked in or travelled.
+- Whether the flight was cancelled or disrupted by the airline.
+
+The refundable amount is generally calculated after deducting applicable fees and charges.
+
+Refunds may be processed through:
+
+1. Original mode of payment.
+2. Credit Shell, where eligible and applicable.
+
+The original payment method may include:
+- Credit cards.
+- Debit cards.
+- Digital wallets.
+- Other accepted payment methods.
+
+Passengers should retain their booking reference and cancellation confirmation when requesting refund assistance.
+
+==================================================
+7. REFUND PROCESSING TIME
+==================================================
+
+Refund processing time depends on the payment method and booking channel.
+
+Published Conditions of Carriage include the following processing timelines:
+
+- Credit/debit card and wallet bookings: generally within 7 working days from the refund request.
+- American Express bookings: generally within 21 working days from the refund request.
+- Travel-agent bookings: refunds are processed to the respective travel agent, and passengers may need to contact the agent.
+
+Actual crediting time may also depend on the bank, payment provider or travel agent.
+
+Passengers should contact IndiGo if the applicable refund processing period has passed.
+
+==================================================
+8. CREDIT SHELL
+==================================================
+
+A Credit Shell is an eligible refund amount that can be used for future travel on IndiGo flights.
+
+Important conditions:
+
+- Credit Shell is subject to the applicable refund rules.
+- It may be used for future IndiGo bookings.
+- It has a validity period specified under the applicable conditions.
+- It may be subject to restrictions on use and passenger details.
+
+Passengers should verify their Credit Shell balance, validity and usage conditions before making a new booking.
+
+A Credit Shell is different from a refund returned to the original payment method.
+
+==================================================
+9. NO-SHOW POLICY
+==================================================
+
+A no-show occurs when a passenger does not travel on the booked flight and fails to complete the required check-in or travel formalities within the applicable deadline.
+
+No-show conditions may include:
+
+- Retention of the applicable booking amount.
+- Loss of eligibility for certain fare refunds.
+- Refund of eligible airport charges or taxes as required by applicable rules.
+- Additional restrictions on unused or partially used bookings.
+
+Passengers should not assume that a missed flight automatically qualifies for a full refund.
+
+The exact no-show deadline and refund eligibility must be verified against the current Conditions of Carriage and the passenger's fare rules.
+
+==================================================
+10. CANCELLATION OR DELAY BY INDIGO
+==================================================
+
+IndiGo may cancel, postpone, reschedule, divert or delay flights due to:
+
+- Operational reasons.
+- Safety requirements.
+- Weather conditions.
+- Force majeure circumstances.
+- Other unavoidable circumstances.
+
+When an eligible IndiGo-operated flight is cancelled or significantly delayed, passengers may have options under the applicable policy and law.
+
+These options may include:
+
+1. Refund of the eligible ticket amount.
+2. Credit Shell for future travel.
+3. Rebooking on an alternative IndiGo-operated flight on the same sector, subject to availability.
+
+IndiGo's Plan B service may be available for eligible flight disruptions.
+
+The passenger should check the notification received from IndiGo and the available Plan B options.
+
+==================================================
+11. CONNECTING FLIGHT DISRUPTIONS
+==================================================
+
+A connecting journey may contain multiple flight segments.
+
+If a delay or cancellation affects a connecting flight, the available assistance depends on:
+- Whether the connecting flights are part of the same booking.
+- The affected flight segment.
+- The reason for the disruption.
+- Alternative flight availability.
+- Applicable passenger rights.
+
+Possible assistance may include:
+
+- Rebooking on the next available IndiGo flight.
+- Refund or Credit Shell, where eligible.
+- Accommodation for an overnight stopover, subject to applicable conditions and availability.
+- Ground transportation associated with eligible accommodation arrangements.
+
+Passengers should contact IndiGo for assistance when a disruption may cause them to miss a connecting flight.
+
+==================================================
+12. MEDICAL EMERGENCY CANCELLATION
+==================================================
+
+IndiGo may consider refund or Credit Shell requests in certain medical emergency situations.
+
+For example, where the passenger or an eligible family member listed on the same PNR is admitted to hospital during the travel period, IndiGo may consider the request after receiving acceptable documentary evidence.
+
+Documents may include:
+- Hospital admission documentation.
+- Proof of relationship, where applicable.
+- Other supporting medical documents requested by IndiGo.
+
+Other medical-related cancellation requests may require additional medical fitness documentation.
+
+Approval and refund eligibility are subject to IndiGo's applicable medical emergency policy.
+
+==================================================
+13. TRAVEL AGENT BOOKINGS
+==================================================
+
+Passengers who booked through travel agents may need to contact their travel agent for booking modifications and cancellations.
+
+For certain bookings made through the IATA Billing and Settlement Plan:
+
+- Changes and cancellations should be requested through the respective travel agent.
+- Special conditions may apply to partially used bookings.
+- Refunds may be processed to the travel agent's account.
+
+Passengers should confirm whether their booking was made directly through IndiGo or through a third-party travel provider.
+
+==================================================
+14. CODESHARE FLIGHTS
+==================================================
+
+A codeshare flight is a flight marketed by one airline but operated by another airline.
+
+For codeshare bookings:
+- The operating airline may have different conditions of carriage.
+- Check-in requirements may differ.
+- Baggage rules may differ.
+- Boarding and passenger assistance procedures may differ.
+- Change and cancellation conditions may depend on the applicable agreement.
+
+Passengers should identify the operating carrier before receiving detailed assistance.
+
+==================================================
+15. PASSENGER SUPPORT AND GRIEVANCES
+==================================================
+
+For assistance regarding bookings, changes, cancellations or refunds, passengers may contact IndiGo through its official support channels.
+
+Published contact details:
+
+Customer Experience Email:
+Customer.experience@goindigo.in
+
+Customer Care:
+0124-4973838
+0124-6173838
+
+Nodal Officer:
+nodalofficer@goindigo.in
+
+Appellate Authority:
+appellateauthority@goindigo.in
+
+Passengers should provide the following information when raising a support request:
+
+- Passenger name.
+- PNR or booking reference.
+- Flight number.
+- Travel date.
+- Registered email address or mobile number.
+- Description of the issue.
+- Supporting documents, if applicable.
+
+==================================================
+16. CUSTOMER SUPPORT DECISION GUIDELINES
+==================================================
+
+When a passenger asks about cancellation:
+
+1. Identify whether the passenger wants to cancel the flight.
+2. Ask for the PNR or booking reference if necessary.
+3. Identify the route and travel date.
+4. Check the applicable fare type.
+5. Verify the cancellation fee.
+6. Calculate the eligible refund using authoritative booking data.
+7. Explain the refund method and processing timeline.
+
+When a passenger asks about changing a flight:
+
+1. Identify the original flight.
+2. Ask for the preferred new date or flight.
+3. Check the applicable change fee.
+4. Check the revised fare.
+5. Explain the total additional amount, if any.
+
+When a passenger asks about a delayed or cancelled flight:
+
+1. Identify whether IndiGo or another airline operates the flight.
+2. Verify the latest flight status.
+3. Identify the available Plan B options.
+4. Explain refund, Credit Shell or rebooking eligibility.
+
+IMPORTANT CUSTOMER SUPPORT RULE:
+
+The RAG knowledge base provides general policy information.
+
+It must not independently invent:
+- Live cancellation charges.
+- Exact refund amounts.
+- Current flight availability.
+- Current ticket prices.
+- Passenger-specific booking status.
+
+These details must be retrieved from the appropriate live booking system or airline API.
+
+==================================================
+17. OFFICIAL SOURCE
+==================================================
+
+IndiGo Conditions of Carriage:
+https://www.goindigo.in/information/conditions-of-carriage.html
+
+The Conditions of Carriage may be modified by IndiGo.
+
+Always verify the latest published version before providing customer-facing policy information.
+
+END OF DOCUMENT
